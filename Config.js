@@ -1,0 +1,6 @@
+module.exports = {
+  FB_PAGE_TOKEN: "Page Access Token",
+  FB_VERIFY_TOKEN: "EAAlvrnnx6SgBAFDYi6a9HwClQtjp8GRQ2SsEQRGa74RzRtwVEzt2fjtiwPQYQbxSUn9kIbj8UCru4AFREkTdVU74HElKkWl9fsub4aQ9jSFaVLWDcG4q6tejIv7ZCDQ7mVtbIUiyAdNZAqZALY1pHAqB9bybK7HeS5MATl1cQZDZD",
+  API_AI_CLIENT_ACCESS_TOKEN: "DialogFlow token",
+  FB_APP_SECRET: "subscribe",
+};
